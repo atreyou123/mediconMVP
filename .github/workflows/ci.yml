@@ -33,13 +33,13 @@ jobs:
         run: |
           mkdir -p build
           cp -r backend build/backend
-          cp -r front-end build/front-end
+          cp -r frontend build/frontend
 
       - name: Simulate deployment
         run: |
           mkdir -p deployment
           cp -r build/backend deployment/backend
-          cp -r build/front-end deployment/front-end
+          cp -r build/frontend deployment/frontend
 
       - name: List deployment folder
         run: |
