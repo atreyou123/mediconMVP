@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Book Appointment – Medicon</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <div class="wrapper">
+        <h1 class="app-title">Medical Appointment</h1>
+        <p class="app-subtitle">Please enter your details</p>
+
+        <div class="card">
+            <h2>Book a Consultation</h2>
+
+            <input type="text" id="nameInput" class="input" placeholder="Enter your name">
+
+            <button onclick="confirmBooking()" class="btn btn-secondary">
+                Confirm Booking
+            </button>
+
+            <p id="bookingResult" class="booking-message"></p>
+        </div>
+    </div>
+
+    <script src="main.js"></script>
+</body>
+</html>

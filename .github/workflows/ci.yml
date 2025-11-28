@@ -1,0 +1,45 @@
+name: Medicon CI/CD
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  ci-cd:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          cd backend
+          pip install -r requirements.txt
+          pip install pytest
+
+      - name: Run tests
+        run: |
+          cd backend
+          pytest -v
+
+      - name: Build artifact (simulation)
+        run: |
+          mkdir -p build
+          cp -r backend build/backend
+          cp -r front-end build/front-end
+
+      - name: Simulate deployment
+        run: |
+          mkdir -p deployment
+          cp -r build/backend deployment/backend
+          cp -r build/front-end deployment/front-end
+
+      - name: List deployment folder
+        run: |
+          ls -R deployment

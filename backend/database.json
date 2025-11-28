@@ -1,0 +1,322 @@
+[
+    {
+        "timestamp": "2025-11-26T12:53:27.728994",
+        "symptom": "pain",
+        "level": "Level 2"
+    },
+    {
+        "timestamp": "2025-11-26T12:56:11.032672",
+        "symptom": "pain",
+        "level": "Level 2"
+    },
+    {
+        "timestamp": "2025-11-26T12:59:26.265841",
+        "symptom": "fever",
+        "level": "Level 2"
+    },
+    {
+        "timestamp": "2025-11-26T13:04:26.148188",
+        "symptom": "a",
+        "level": "Level 3"
+    },
+    {
+        "timestamp": "2025-11-26T13:04:34.664625",
+        "symptom": "fever",
+        "level": "Level 2"
+    },
+    {
+        "timestamp": "2025-11-26T13:06:35.335998",
+        "symptom": "fever",
+        "level": "Level 2"
+    },
+    {
+        "timestamp": "2025-11-26T13:07:08.740493",
+        "symptom": "fever,cough",
+        "level": "Level 2"
+    },
+    {
+        "timestamp": "2025-11-26T13:07:11.879261",
+        "symptom": "fever, cough",
+        "level": "Level 2"
+    },
+    {
+        "timestamp": "2025-11-26T13:07:12.394655",
+        "symptom": "fever, cough",
+        "level": "Level 2"
+    },
+    {
+        "timestamp": "2025-11-26T13:07:12.566557",
+        "symptom": "fever, cough",
+        "level": "Level 2"
+    },
+    {
+        "timestamp": "2025-11-26T13:07:12.723508",
+        "symptom": "fever, cough",
+        "level": "Level 2"
+    },
+    {
+        "timestamp": "2025-11-26T13:07:12.869245",
+        "symptom": "fever, cough",
+        "level": "Level 2"
+    },
+    {
+        "timestamp": "2025-11-26T13:07:13.001604",
+        "symptom": "fever, cough",
+        "level": "Level 2"
+    },
+    {
+        "timestamp": "2025-11-26T13:07:13.144111",
+        "symptom": "fever, cough",
+        "level": "Level 2"
+    },
+    {
+        "timestamp": "2025-11-26T13:07:13.263415",
+        "symptom": "fever, cough",
+        "level": "Level 2"
+    },
+    {
+        "timestamp": "2025-11-26T13:07:13.419117",
+        "symptom": "fever, cough",
+        "level": "Level 2"
+    },
+    {
+        "timestamp": "2025-11-26T13:07:13.556441",
+        "symptom": "fever, cough",
+        "level": "Level 2"
+    },
+    {
+        "timestamp": "2025-11-26T13:07:13.704109",
+        "symptom": "fever, cough",
+        "level": "Level 2"
+    },
+    {
+        "timestamp": "2025-11-26T13:07:13.848799",
+        "symptom": "fever, cough",
+        "level": "Level 2"
+    },
+    {
+        "timestamp": "2025-11-26T13:07:20.693330",
+        "symptom": "fever, cough",
+        "level": "Level 2"
+    },
+    {
+        "timestamp": "2025-11-26T13:11:37.906057",
+        "symptom": "fever",
+        "level": "Level 2"
+    },
+    {
+        "timestamp": "2025-11-26T13:12:46.945969",
+        "symptom": "severe",
+        "level": "Level 1"
+    },
+    {
+        "timestamp": "2025-11-26T13:13:48.568011",
+        "symptom": "severe",
+        "level": "Level 1"
+    },
+    {
+        "timestamp": "2025-11-26T13:13:55.837743",
+        "symptom": "fever",
+        "level": "Level 2"
+    },
+    {
+        "timestamp": "2025-11-26T13:16:48.108388",
+        "symptom": "severe",
+        "level": "Level 1"
+    },
+    {
+        "timestamp": "2025-11-26T13:16:58.907575",
+        "symptom": "fever",
+        "level": "Level 2"
+    },
+    {
+        "timestamp": "2025-11-27T10:36:51.354881",
+        "symptom": "severe",
+        "level": "Level 1"
+    },
+    {
+        "timestamp": "2025-11-27T10:37:14.974545",
+        "symptom": "fever",
+        "level": "Level 2"
+    },
+    {
+        "timestamp": "2025-11-27T10:59:20.845926",
+        "symptom": "severe",
+        "level": "Level 1"
+    },
+    {
+        "timestamp": "2025-11-27T10:59:30.579014",
+        "symptom": "fever",
+        "level": "Level 2"
+    },
+    {
+        "timestamp": "2025-11-27T10:59:47.472914",
+        "symptom": "a",
+        "level": "Level 3"
+    },
+    {
+        "timestamp": "2025-11-27T10:59:48.913166",
+        "symptom": "a",
+        "level": "Level 3"
+    },
+    {
+        "timestamp": "2025-11-27T10:59:50.408055",
+        "symptom": "a",
+        "level": "Level 3"
+    },
+    {
+        "timestamp": "2025-11-27T10:59:50.543928",
+        "symptom": "a",
+        "level": "Level 3"
+    },
+    {
+        "timestamp": "2025-11-27T10:59:50.683735",
+        "symptom": "a",
+        "level": "Level 3"
+    },
+    {
+        "timestamp": "2025-11-27T11:01:29.030329",
+        "symptom": "cough",
+        "level": "Level 3"
+    },
+    {
+        "timestamp": "2025-11-27T11:01:29.811885",
+        "symptom": "cough",
+        "level": "Level 3"
+    },
+    {
+        "timestamp": "2025-11-27T11:02:11.973533",
+        "symptom": "cough",
+        "level": "Level 3"
+    },
+    {
+        "timestamp": "2025-11-27T11:02:12.110037",
+        "symptom": "cough",
+        "level": "Level 3"
+    },
+    {
+        "timestamp": "2025-11-27T11:02:18.651334",
+        "symptom": "cough",
+        "level": "Level 3"
+    },
+    {
+        "timestamp": "2025-11-27T11:02:23.090185",
+        "symptom": "snotty nose",
+        "level": "Level 3"
+    },
+    {
+        "timestamp": "2025-11-27T11:02:23.809222",
+        "symptom": "snotty nose",
+        "level": "Level 3"
+    },
+    {
+        "timestamp": "2025-11-27T12:09:22.185583",
+        "symptom": "severe",
+        "level": "Level 1"
+    },
+    {
+        "timestamp": "2025-11-27T12:09:48.301896",
+        "symptom": "fever",
+        "level": "Level 2"
+    },
+    {
+        "timestamp": "2025-11-27T12:12:04.206478",
+        "symptom": "fever",
+        "level": "Level 2"
+    },
+    {
+        "timestamp": "2025-11-27T12:27:24.007913",
+        "symptom": "snotty nose",
+        "level": "Level 3"
+    },
+    {
+        "timestamp": "2025-11-27T12:27:26.158992",
+        "symptom": "snotty nose",
+        "level": "Level 3"
+    },
+    {
+        "timestamp": "2025-11-27T12:27:26.808535",
+        "symptom": "snotty nose",
+        "level": "Level 3"
+    },
+    {
+        "timestamp": "2025-11-27T12:27:26.969777",
+        "symptom": "snotty nose",
+        "level": "Level 3"
+    },
+    {
+        "timestamp": "2025-11-27T12:27:27.137374",
+        "symptom": "snotty nose",
+        "level": "Level 3"
+    },
+    {
+        "timestamp": "2025-11-27T12:27:34.173613",
+        "symptom": "fever",
+        "level": "Level 2"
+    },
+    {
+        "timestamp": "2025-11-27T12:27:41.744956",
+        "symptom": "small cough",
+        "level": "Level 3"
+    },
+    {
+        "timestamp": "2025-11-27T12:27:44.944795",
+        "symptom": "cough",
+        "level": "Level 3"
+    },
+    {
+        "timestamp": "2025-11-27T12:27:45.116369",
+        "symptom": "cough",
+        "level": "Level 3"
+    },
+    {
+        "timestamp": "2025-11-27T12:28:12.739715",
+        "symptom": "cough",
+        "level": "Level 3"
+    },
+    {
+        "timestamp": "2025-11-27T12:28:18.929601",
+        "symptom": "cough",
+        "level": "Level 3"
+    },
+    {
+        "timestamp": "2025-11-27T12:28:23.334884",
+        "symptom": "small cough",
+        "level": "Level 3"
+    },
+    {
+        "timestamp": "2025-11-27T12:28:34.447009",
+        "symptom": "cough",
+        "level": "Level 3"
+    },
+    {
+        "timestamp": "2025-11-27T12:28:35.002511",
+        "symptom": "cough",
+        "level": "Level 3"
+    },
+    {
+        "timestamp": "2025-11-27T12:28:35.167738",
+        "symptom": "cough",
+        "level": "Level 3"
+    },
+    {
+        "timestamp": "2025-11-27T12:28:35.589997",
+        "symptom": "cough",
+        "level": "Level 3"
+    },
+    {
+        "timestamp": "2025-11-27T12:29:56.207973",
+        "symptom": "cough",
+        "level": "Level 3"
+    },
+    {
+        "timestamp": "2025-11-27T12:30:01.656852",
+        "symptom": "cough",
+        "level": "Level 3"
+    },
+    {
+        "timestamp": "2025-11-27T12:30:22.909353",
+        "symptom": "cough",
+        "level": "Level 3"
+    }
+]

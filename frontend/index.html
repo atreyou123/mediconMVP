@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Medicon – Symptom Evaluation</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+
+    <div class="wrapper">
+
+        <h1 class="title">Medicon Clinical System</h1>
+        <p class="subtitle">Smart health: save time, save money</p>
+
+        <div class="card">
+
+            <h2 class="section-header">Symptom Evaluation</h2>
+
+            <label class="label">Describe your symptoms</label>
+            <input id="symptomInput" class="input" type="text" placeholder="e.g. chest pain, fever, cough">
+
+            <button onclick="evaluateSymptom()" class="btn btn-primary">
+                Evaluate Symptoms
+            </button>
+
+            <div id="result" class="result hidden">
+                <h3 id="levelTitle" class="result-title">Urgency Level:</h3>
+                <p id="guidance"></p>
+            </div>
+
+        </div>
+
+    </div>
+
+    <script src="main.js"></script>
+</body>
+</html>
+
+
+
+
