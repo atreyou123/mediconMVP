@@ -26,6 +26,7 @@ jobs:
       - name: Run tests
         run: |
           cd backend
+          export PYTHONPATH=$(pwd)
           pytest -v
 
       - name: Build artifact (simulation)
